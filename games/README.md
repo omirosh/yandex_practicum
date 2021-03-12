@@ -11,8 +11,8 @@
 Были предоставлены данные о продажах игр в мире, оценки пользователей и экспертов, жанры и платформы.
 
 ## Используемые библиотеки
-*pandas* 
-*matplotlib.pyplot*
-*plotly.express*
-*numpy*
-*scipy.stats*
+*pandas*   
+*matplotlib.pyplot*  
+*plotly.express*  
+*numpy*  
+*scipy.stats*   
