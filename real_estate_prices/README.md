@@ -12,5 +12,5 @@
 
 ## Используемые библиотеки
 pandas   
-matplotlib.pyplot
+matplotlib.pyplot  
 plotly.express
