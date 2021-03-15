@@ -11,7 +11,7 @@
 
 ## Данные  
 
-Источник данных: [Kaggle](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
+Источник данных: [Kaggle Bank Turnover Dataset](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
 
 Характеристики клиентов банка: личная информация, количество неджижимости, продуктов банка, баланс на счете, активность. Целевой признак: факт ухода клиента.
 
