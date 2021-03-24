@@ -1,5 +1,6 @@
 # Исследование популярности компьютерных игр
 
+Для корректного отображения графиков, пожалуйста, перейдите по ссылке на nbviewer: [Jupyter notebook on nbviewer](https://nbviewer.jupyter.org/github/omirosh/yandex_practicum/blob/master/05_games/games.ipynb)
 ## Задача
 Спрогнозировать игра какого жанра и на какой платформе будет популярна, основываясь на исторических данных.
 
