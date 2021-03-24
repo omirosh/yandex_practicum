@@ -1,6 +1,6 @@
 # Исследование надёжности заёмщиков
 
-Ссылка на nbviewer: [Credit scoring notebook](https://nbviewer.jupyter.org/github/omirosh/yandex_practicum/blob/master/02_credit_scoring/credit_scoring.ipynb)
+Для корректного отображения графиков, пожалуйста, перейдите по ссылке на nbviewer: [Jupyter notebook on nbviewer](https://nbviewer.jupyter.org/github/omirosh/yandex_practicum/blob/master/02_credit_scoring/credit_scoring.ipynb)
 
 ## Задача
 Провести исследование и определить влияет ли семейное положение, доход и количество детей на погашение кредита в срок.
