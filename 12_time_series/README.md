@@ -1,5 +1,5 @@
 # Прогнозирование количества заказов такси
-
+Для корректного отображения графиков, пожалуйста, перейдите по ссылке на nbviewer: [Jupyter notebook on nbviewer](https://nbviewer.jupyter.org/github/omirosh/yandex_practicum/blob/master/12_time_series/taxi_orders_forecast.ipynb)
 ## Задача
 Требуется построить модель машинного обучения для прогнозирования количества заказов такси на следующий час на основе исторических данных.
 
