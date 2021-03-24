@@ -1,5 +1,5 @@
 # Моделирование оттока клиентов банка
-
+Для корректного отображения графиков, пожалуйста, перейдите по ссылке на nbviewer: [Jupyter notebook on nbviewer](https://nbviewer.jupyter.org/github/omirosh/yandex_practicum/blob/master/07_bank_customer_churn_modeling/customer_churn_modeling.ipynb)
 ## Задача
 На основе исторических данных о поведении клиентов банка нужно построить модель машинного обучения для предсказания ухода клиента. Задача бинарной классификации.
 
