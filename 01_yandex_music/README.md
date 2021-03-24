@@ -1,7 +1,8 @@
 
 # Исследование: Музыка больших городов. 
 
-Ссылка на nbviewer: [Yandex music notebook](https://nbviewer.jupyter.org/github/omirosh/yandex_practicum/blob/master/01_yandex_music/yandex_music.ipynb)
+Для корректного отображения графиков, пожалуйста, перейдите по ссылке на nbviewer: [Jupyter notebook on nbviewer](https://nbviewer.jupyter.org/github/omirosh/yandex_practicum/blob/master/01_yandex_music/yandex_music.ipynb)
+
 ## Задача
 
 Провести сравнение музыкальных предпочтений у пользователей Яндекс.Музыки, проживающих в Москве и Санкт-Петербурге. Сравнить прослушивания в понедельник, среду и пятницу по городам, а также сравнить жанры, которые слушают пользователи утром в понедельник и вечером в пятницу в Москве и Санкт-Петербурге.  
