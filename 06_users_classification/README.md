@@ -1,5 +1,5 @@
 # Рекомендация тарифов
-
+Для корректного отображения графиков, пожалуйста, перейдите по ссылке на nbviewer: [Jupyter notebook on nbviewer](https://nbviewer.jupyter.org/github/omirosh/yandex_practicum/blob/master/06_users_classification/users_classification.ipynb)
 ## Задача
 Требуется построить модель машинного обучения для классификации, способную на основе поведения клиентов мобильного оператора предложить им подходящий тариф.
 
