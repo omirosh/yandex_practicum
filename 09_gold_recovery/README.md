@@ -1,5 +1,5 @@
 # Коэффициент восстановления золота из золотосодержащей руды
-
+Для корректного отображения графиков, пожалуйста, перейдите по ссылке на nbviewer: [Jupyter notebook on nbviewer](https://nbviewer.jupyter.org/github/omirosh/yandex_practicum/blob/master/09_gold_recovery/gold_recovery.ipynb)
 ## Задача
 Требуется построить модель машинного обучения для предсказания коэффициента восстановления золота из руды. 
 
